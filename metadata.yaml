@@ -1,0 +1,48 @@
+_repo: Sok-minden_73979
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Szép, Ernő
+    alias: Szep, Erno
+    birthdate: 1884
+    deathdate: 1953
+    gutenberg_agent_id: '57281'
+    url: http://www.gutenberg.org/2009/agents/57281
+    wikipedia: https://hu.wikipedia.org/wiki/Sz%C3%A9p_Ern%C5%91
+description: ''
+gutenberg_issued: '2024-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73979'
+  lccn: '90194431'
+language: hu
+pgterms:marc905: 20240629094805szp
+pgterms:marc906: '1914'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bAthenaeum, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian essays -- 20th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Kis cikk a szeretetről -- Újesztendő, vígság-szerző -- Éjfél -- Jégpálya
+  -- Scott kapitány -- Hogy mulatnak -- Magyarországból jövök -- Tiszta mult a kiadóhivatalban
+  -- Földalatti -- Sóhajok az orosz ballet körül -- Vasárnap délután -- Pathé-Journal
+  -- Egy másik ember -- Krisztus a fájdalom útján -- Husvéti séta -- A halál a bábszínházban
+  -- Gyermeknap van -- Néha olyasmit érzek -- Egy úr a konflisra ül -- A minap délelőtt
+  -- Szerelmi levelező -- Menet -- Egész héten a suffragette-ekbe -- Anzikszkártya
+  -- Affér -- Szeretek őgyelegni -- A Ganz-gyárban -- A kávéház fülkéjébe -- Egy gyöngysor
+  híre -- Bizonyára te is -- A nők -- Eugénia és Emilia -- Vasárnap -- Nyáron elmegyek
+  az uszodába -- Állatmese -- Nyár -- Pest -- A kacsa -- Tegnap, -- A kávéház fülkéjében
+  -- Tízéves találkozó -- Nyár van még -- Árva Pál -- Pégoud -- Tegnap bezártak --
+  És fölemeltem a pálcámat -- »Keresem az Istent« -- Ma Budán adtam rendez-vous-t
+  -- Falevél -- Tegnapelőtt este -- Fürdőlevél -- Az isztriai rabok -- Szafonoff --
+  Egy civilembert -- Remélem, senkit se -- Hold -- Téli emlék -- Francia dal -- A
+  kuglizó -- Kálmán a hajón -- Nem mintha nem lennének -- Helén -- Ez a pár nap --
+  Este az utcán -- Velence -- Süt a nap.
+title: Sok minden
+url: http://www.gutenberg.org/ebooks/73979
